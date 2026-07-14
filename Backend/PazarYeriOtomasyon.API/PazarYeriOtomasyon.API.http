@@ -1,0 +1,6 @@
+@PazarYeriOtomasyon.API_HostAddress = http://localhost:5236
+
+GET {{PazarYeriOtomasyon.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
