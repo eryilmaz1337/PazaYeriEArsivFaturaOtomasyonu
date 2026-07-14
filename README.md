@@ -236,34 +236,6 @@ PazarYeriFaturaOtomasyonu/
 
 ---
 
-## 🖼️ Ekran Görüntüleri
-
-> 📸 _Ekran görüntüleri yakında eklenecektir._
-
-<!--
-Ekran görüntüsü eklemek için:
-1. `screenshots/` klasörü oluşturun
-2. Görüntüleri içine koyun
-3. Aşağıdaki gibi ekleyin:
-
-![Dashboard](screenshots/dashboard.png)
-![Siparişler](screenshots/orders.png)
--->
-
----
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen aşağıdaki adımları takip edin:
-
-1. Projeyi **fork** edin
-2. Feature branch oluşturun (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'feat: yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
-5. **Pull Request** açın
-
----
-
 ## 📄 Lisans
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
