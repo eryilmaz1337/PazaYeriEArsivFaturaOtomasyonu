@@ -153,8 +153,6 @@ docker compose down -v
 | `GibPortal__UserCode` | GİB e-Arşiv portal kullanıcı kodunuz | ✅ |
 | `GibPortal__Password` | GİB e-Arşiv portal şifreniz | ✅ |
 
-> ⚠️ **Uyarı:** `.env` dosyanızı asla versiyon kontrolüne eklemeyin. `.gitignore` bunu otomatik olarak engelleyecektir.
-
 ---
 
 ## 📖 Kullanım
